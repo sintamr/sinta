@@ -4,7 +4,7 @@
 
 # Hi, I'm Sinta Miftakhul Rohmah 👋
 
-🎓 Data Analyst Enthuasiast
+🎓 Data Analyst
 
 <p align ="justify">
   I'm a passionate in Data Analyst who enjoys exploring datasets, visualizing insights, and building data-driven solutions to support better decision-making. I have experience handling data from various domains and transforming them into meaningful, actionable insights.
